@@ -6,3 +6,4 @@ PyTorch
 scikit-learn
 Keras
 Tensorflow
+PyAudio
